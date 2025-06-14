@@ -1,1 +1,4 @@
 # Hospital-Management-System-Using-MySQL
+This project is a Hospital Management System built using SQL to efficiently manage patient records, doctor information, appointments, prescriptions, and billing. It is designed with a relational database structure to ensure data integrity, reduce redundancy, and support essential healthcare operations. The database schema includes well-structured tables with primary and foreign key relationships, allowing for complex queries such as patient medical history, outstanding bills, doctor-wise appointments, and revenue analytics.
+
+The project demonstrates real-world database management practices through sample data and optimized SQL queries. It is ideal for learning how relational databases work in healthcare management scenarios. You can use this project as a backend database for web or desktop hospital management applications, or connect it with analytics tools like Power BI for visualization.
